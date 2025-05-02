@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ryan-PG&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan-PG" /> </p>  
-  
 # 💫 About Me:
 👩‍💻 Who I Am<br>A curious mind and lifelong learner, balancing my roles as an AI Master’s student, Product Manager, Full-Stack Developer, Tutor, and Content Creator.<br><br>🌟 What Drives Me<br>An insatiable curiosity about AI, technology, and life itself. I find joy in exploring new ideas, sharing knowledge, and creating impactful solutions.<br><br>📚 My Current Focus<br>Wrapping up my Master’s degree in AI, while diving deeper into product management strategies and full-stack development techniques and also learn and explore AI more and more.<br><br>💻 My Skills:<br>- AI researcher and Tutor<br>- Back-End Development: ASP.NET Core, Python, Django, Flask, FastAPI<br>- Mobile Development: Flutter<br>- DevOps & Server Management: Managing servers, deployment pipelines, and ensuring scalability<br>- Full-Stack Expertise: Crafting scalable and user-friendly solutions<br>
 
